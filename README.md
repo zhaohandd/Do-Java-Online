@@ -5,7 +5,8 @@ Java Online Executor
 ![img/1.jpg](img/1.jpg)
 正好最近在看周志明老师的《深入理解Java虚拟机》这本书，在书中的第九章《类加载及执行子系统的案例与实战》中详细讲解了“如何实现远程执行功能”，与上述在线执行器的思路一致。
 结合TangBean同学的[OnlineExecutor](https://github.com/TangBean/OnlineExecutor)项目，后续会完善多个相关功能：
-- [ ] 用户注册登录
+- [X] 用户注册登录
+- [ ] 界面太丑，有待美化
 - [ ] 上传文件，显示
 - [ ] 美化页面
 ### 展示
